@@ -1,0 +1,7 @@
+F:\files\programming\jekaTasks\P1_LiteDBUtill\P1_LiteDB_Reader\bin\Debug\P1_LiteDB_Reader.exe
+F:\files\programming\jekaTasks\P1_LiteDBUtill\P1_LiteDB_Reader\bin\Debug\P1_LiteDB_Reader.pdb
+F:\files\programming\jekaTasks\P1_LiteDBUtill\P1_LiteDB_Reader\bin\Debug\LiteDB.dll
+F:\files\programming\jekaTasks\P1_LiteDBUtill\P1_LiteDB_Reader\bin\Debug\LiteDB.xml
+F:\files\programming\jekaTasks\P1_LiteDBUtill\P1_LiteDB_Reader\obj\Debug\P1_LiteDB_Reader.csprojResolveAssemblyReference.cache
+F:\files\programming\jekaTasks\P1_LiteDBUtill\P1_LiteDB_Reader\obj\Debug\P1_LiteDB_Reader.exe
+F:\files\programming\jekaTasks\P1_LiteDBUtill\P1_LiteDB_Reader\obj\Debug\P1_LiteDB_Reader.pdb

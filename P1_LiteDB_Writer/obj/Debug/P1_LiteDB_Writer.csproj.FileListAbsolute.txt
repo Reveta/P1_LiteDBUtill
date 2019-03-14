@@ -1,0 +1,7 @@
+F:\files\programming\jekaTasks\P1_LiteDBUtill\P1_LiteDB_Writer\bin\Debug\P1_LiteDB_Writer.exe
+F:\files\programming\jekaTasks\P1_LiteDBUtill\P1_LiteDB_Writer\bin\Debug\P1_LiteDB_Writer.pdb
+F:\files\programming\jekaTasks\P1_LiteDBUtill\P1_LiteDB_Writer\obj\Debug\P1_LiteDB_Writer.csprojResolveAssemblyReference.cache
+F:\files\programming\jekaTasks\P1_LiteDBUtill\P1_LiteDB_Writer\obj\Debug\P1_LiteDB_Writer.exe
+F:\files\programming\jekaTasks\P1_LiteDBUtill\P1_LiteDB_Writer\obj\Debug\P1_LiteDB_Writer.pdb
+F:\files\programming\jekaTasks\P1_LiteDBUtill\P1_LiteDB_Writer\bin\Debug\LiteDB.dll
+F:\files\programming\jekaTasks\P1_LiteDBUtill\P1_LiteDB_Writer\bin\Debug\LiteDB.xml
